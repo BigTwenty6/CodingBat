@@ -28,7 +28,7 @@ public class BiggerTwo {
 		  }
 		  
 		}
-
+	
 	public static void main(String[] args) {
 		
 //		Expected	Run		
@@ -39,6 +39,5 @@ public class BiggerTwo {
 //		biggerTwo([2, 2], [1, 3]) → [2, 2]	[2, 2]	OK	
 //		biggerTwo([1, 3], [2, 2]) → [1, 3]	[1, 3]	OK	
 //		biggerTwo([6, 7], [3, 1]) → [6, 7]	[6, 7]	OK
-		
 	}
 }
