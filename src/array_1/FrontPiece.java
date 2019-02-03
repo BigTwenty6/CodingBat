@@ -4,7 +4,6 @@ public class FrontPiece {
 		
 		public int[] frontPiece(int[] nums) {
 			  
-			
 			  if (nums.length == 0) {
 			    int [] result = new int [0];
 			    return result;
